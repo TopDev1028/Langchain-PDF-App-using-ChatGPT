@@ -8,7 +8,7 @@ This app is an LLM-powered chatbot built using:
 ## Step - 1
 
 ```
-  git clone https://github.com/farukalampro/Langchain-PDF-App-using-ChatGPT.git
+  git clone https://github.com/TopDev1028/Langchain-PDF-App-using-ChatGPT.git
 ```
 
 ## Step - 2
